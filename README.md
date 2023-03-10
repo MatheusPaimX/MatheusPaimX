@@ -8,7 +8,7 @@ Programador Back-End
 Outras redes sociais:
 <a href="https://www.instagram.com/matheus.paimx/">
  - <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-href="https://www.linkedin.com/in/matheus-de-oliveira-paim-936561269/">
+</a>href="https://www.linkedin.com/in/matheus-de-oliveira-paim-936561269/">
  - <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
 
